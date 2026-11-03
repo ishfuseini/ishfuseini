@@ -2,15 +2,13 @@
 
 ### Enterprise Architect across Sales and MarTech software.
 
-- 🔭 I'm currently working on **AI Technologies and Audio/Visual Applications**
+- I'm currently working on **AI Technologies and Audio/Visual Applications**
 
-- 🌱 I'm currently learning **TypeScript, Python, Data Pipelines**
+- I'm currently learning **TypeScript, Python, Data Pipelines**
 
-- 📫 How to reach me **me@ishfuseini.com**
+- All of my projects are available at **[https://projects.ishlab.dev](https://projects.ishlab.dev)**
 
-- 👨‍💻 All of my projects are available at **[https://projects.ishlab.dev](https://projects.ishlab.dev)**
-
-- 📝 I regularly write articles on **[https://ishfuseini.com/](https://ishfuseini.com/)**
+- More about me @ **[https://ishfuseini.com/](https://ishfuseini.com/)**
 
 <h2 data-importer="text" align="left">I code with</h2>
 
