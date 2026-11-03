@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ish Fuseini
+# Hi 👋, I'm Ish
 
 ### Enterprise Architect across Sales and MarTech software.
 
