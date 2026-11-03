@@ -1,18 +1,16 @@
-<h1 data-importer="text" align="left">Hi, I'm Ish</h1>
+# Hi 👋, I'm Ish Fuseini
 
-###
+### Enterprise Architect across Sales and MarTech software.
 
-<p data-importer="text" align="left">Enterprise Architect across Sales and MarTech software.<br><br>- 🔭 I'm currently working on **AI Technologies and Audio/Visual Applications**<br><br>- 🌱 I'm currently learning **TypeScript, Python, Data Pipelines**<br><br>- 📫 How to reach me **me@ishfuseini.com**<br><br>- 👨‍💻 All of my projects are available at **[https://projects.ishlab.dev](https://projects.ishlab.dev)**</p>
+- 🔭 I'm currently working on **AI Technologies and Audio/Visual Applications**
 
-###
+- 🌱 I'm currently learning **TypeScript, Python, Data Pipelines**
 
-<h2 data-importer="text" align="left">About me</h2>
+- 📫 How to reach me **me@ishfuseini.com**
 
-###
+- 👨‍💻 All of my projects are available at **[https://projects.ishlab.dev](https://projects.ishlab.dev)**
 
-<p data-importer="text" align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
-
-###
+- 📝 I regularly write articles on **[https://ishfuseini.com/](https://ishfuseini.com/)**
 
 <h2 data-importer="text" align="left">I code with</h2>
 
@@ -60,16 +58,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
 </div>
 
-###
-
-<div data-importer="techs" align="left">
-</div>
-
-###
-
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/ishfuseini/ishfuseini/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ishfuseini&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
